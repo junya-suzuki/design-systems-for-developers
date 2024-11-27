@@ -31,4 +31,4 @@ RUN yarn install
 
 COPY . .
 
-# CMD ["yarn", "storybook"]
+CMD ["yarn", "storybook"]

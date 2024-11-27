@@ -9,4 +9,4 @@ services:
     volumes:
       - .:/usr/src/app
       - /usr/src/app/node_modules
-    # command: yarn storybook --no-open
+    command: yarn storybook --no-open
