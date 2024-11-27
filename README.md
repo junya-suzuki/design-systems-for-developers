@@ -17,3 +17,12 @@ Docker-compose
 ```bash
 $ docker compose up
 ```
+
+ブラウザで http://localhost:6006/ を開いてください。
+
+## コンテナ内でコマンドを実行する方法
+
+```bash
+$ docker compose exec storybook bash
+# yarn add --dev {追加したいアドオンなど}
+```
