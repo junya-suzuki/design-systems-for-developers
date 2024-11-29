@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@jsuzuki/learnstorybook-design-system-template",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -79,5 +79,8 @@
   },
   "resolutions": {
     "jackspeak": "2.1.1"
-  }
+  },
+  "description": "Storybook design systems tutorial",
+  "repository": "https://github.com/junya-suzuki/design-systems-for-developers",
+  "author": "Junya Suzuki <suzuki.junya@gmail.com>"
 }
