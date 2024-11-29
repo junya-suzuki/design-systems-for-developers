@@ -45,7 +45,7 @@
     "@storybook/test": "^8.4.5",
     "@storybook/test-runner": "^0.19.1",
     "@vitejs/plugin-react": "^3.1.0",
-    "auto": "^10.3.0",
+    "auto": "^11.3.0",
     "boxen": "^5.0.1",
     "chromatic": "^11.19.0",
     "dedent": "^0.7.0",
