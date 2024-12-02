@@ -1,3 +1,15 @@
+# v0.2.0 (Mon Dec 02 2024)
+
+#### 🚀 Enhancement
+
+- Create avatar list component [#7](https://github.com/junya-suzuki/design-systems-for-developers/pull/7) ([@junya-suzuki](https://github.com/junya-suzuki))
+
+#### Authors: 1
+
+- Junya Suzuki ([@junya-suzuki](https://github.com/junya-suzuki))
+
+---
+
 # v0.1.3 (Fri Nov 29 2024)
 
 #### 🐛 Bug Fix
